@@ -107,15 +107,15 @@
                 <p class="text-faded">Rellena el formulario para crearte una cuenta y empieza a reducir la contaminación</p>
                         <form class="form-block">
                             <div class="form-group">
-                                <label for="text">Nombre:</label>
+                                <label for="text">Nombre</label>
                                 <input type="text" class="form-control" id="nombre">
                             </div>
                             <div class="form-group">
-                                <label for="email">Email:</label>
+                                <label for="email">Email</label>
                                 <input type="email" class="form-control" id="email">
                             </div>
                             <div class="form-group">
-                                <label for="pwd">Contraseña:</label>
+                                <label for="pwd">Contraseña</label>
                                 <input type="password" class="form-control" id="pwd">
                             </div>
                             <div class="checkbox">
@@ -125,7 +125,7 @@
                         <button type="submit" class="btn btn-default btn btn-default btn-xl js-scroll-trigger" >Enviar</button>
                         </form>
 
-                       <!-- <a class="btn btn-default btn-xl js-scroll-trigger" href="#services">¡Empecemos!</a>-->
+
 
 
         </div>
@@ -298,7 +298,7 @@
             <div class="col-lg-8 mx-auto text-center">
                 <h2 class="section-heading">Contacta con nosotros</h2>
                 <hr class="primary">
-                <p>Si tienes cualquier duda sobre nosotros no dudes en contactar con nosotros.</p>
+                <p>Si tienes cualquier duda sobre nosotros no dudes en contactar con nosotros.</p></br>
             </div>
         </div>
         <div class="row">

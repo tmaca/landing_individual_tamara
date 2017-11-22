@@ -50,8 +50,16 @@ p {
 .text-faded {
   color: rgba(255, 255, 255, 0.7); }
 
-section {
+ #services{
   padding: 50px 0; }
+
+ #about{
+     padding: 50px 0;
+ }
+
+ #contact{
+     padding: 200px 0;
+ }
 
 .section-heading {
   margin-top: 0; }
@@ -172,6 +180,7 @@ border-color: #14CC81}
 
 #contact{
   background-color: #CCCCCC;
+
 }
 
 header.masthead .header-content .header-content-inner p {
@@ -351,6 +360,19 @@ font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif; }
 .btn-xl {
 padding: 15px 30px; }
 
+.navbar-default{
+    background-color: #14CC81;
+}
+
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand{
+    color: white;
+}
+
+.navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:hover{
+    color: #82FFD2;
+}
+
+/********VIDEO***********/
 .containerVideo {
     position: relative;
     width: 100%;
@@ -366,7 +388,7 @@ padding: 15px 30px; }
 }
 
 /*
- * error 404
+ ********************* error 404 ****************************
  */
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,600,700');
